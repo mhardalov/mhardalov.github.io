@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Momchil
+tagline:          'Sofia University'
+description:      'Personal Page'
+url:              http://mhardalov.github.io/
+baseurl:          ''
+
+author:
+  name:           'Momchil Hardalov'
+
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/mhardalov/mhardalov.github.io
