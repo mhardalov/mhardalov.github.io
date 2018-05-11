@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Momchil
+title:            Momchil Hardalov
 tagline:          'Sofia University'
-description:      'Personal Page'
+description:      'PhD Student'
 url:              http://mhardalov.github.io/
 baseurl:          ''
 
@@ -19,4 +19,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/mhardalov/mhardalov.github.io
+  repo:           https://github.com/mhardalov
