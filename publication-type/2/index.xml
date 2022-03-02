@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Momchil Hardalov</title>
+    <link>https://mhardalov.github.io/publication-type/2/</link>
+      <atom:link href="https://mhardalov.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://mhardalov.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Leaf: Multiple-Choice Question Generation</title>
+      <link>https://mhardalov.github.io/publication/leaf/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/leaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
+      <link>https://mhardalov.github.io/publication/deepknn/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/deepknn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Reading Comprehension for Answer Re-Ranking in Customer Support Chatbots</title>
+      <link>https://mhardalov.github.io/publication/re-ranking-conversation/</link>
+      <pubDate>Tue, 26 Feb 2019 08:45:01 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/re-ranking-conversation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

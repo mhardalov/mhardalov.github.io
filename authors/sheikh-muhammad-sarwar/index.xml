@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheikh Muhammad Sarwar | Momchil Hardalov</title>
+    <link>https://mhardalov.github.io/authors/sheikh-muhammad-sarwar/</link>
+      <atom:link href="https://mhardalov.github.io/authors/sheikh-muhammad-sarwar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sheikh Muhammad Sarwar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <title>Sheikh Muhammad Sarwar</title>
+      <link>https://mhardalov.github.io/authors/sheikh-muhammad-sarwar/</link>
+    </image>
+    
+    <item>
+      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
+      <link>https://mhardalov.github.io/publication/deepknn/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/deepknn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Abusive Language on Online Platforms: A Critical Analysis</title>
+      <link>https://mhardalov.github.io/publication/survey-abusive/</link>
+      <pubDate>Sat, 27 Feb 2021 08:01:10 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/survey-abusive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

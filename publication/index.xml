@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Momchil Hardalov</title>
+    <link>https://mhardalov.github.io/publication/</link>
+      <atom:link href="https://mhardalov.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://mhardalov.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Leaf: Multiple-Choice Question Generation</title>
+      <link>https://mhardalov.github.io/publication/leaf/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/leaf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
+      <link>https://mhardalov.github.io/publication/fewshot-stance/</link>
+      <pubDate>Mon, 13 Sep 2021 15:20:06 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/fewshot-stance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DIPS at CheckThat! 2021: Verified Claim Retrieval</title>
+      <link>https://mhardalov.github.io/publication/dips/</link>
+      <pubDate>Wed, 19 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/dips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Domain Label-Adaptive Stance Detection</title>
+      <link>https://mhardalov.github.io/publication/mole/</link>
+      <pubDate>Thu, 15 Apr 2021 20:06:50 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/mole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
+      <link>https://mhardalov.github.io/publication/deepknn/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/deepknn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
+      <link>https://mhardalov.github.io/publication/survey-stance/</link>
+      <pubDate>Sat, 27 Feb 2021 23:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/survey-stance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Abusive Language on Online Platforms: A Critical Analysis</title>
+      <link>https://mhardalov.github.io/publication/survey-abusive/</link>
+      <pubDate>Sat, 27 Feb 2021 08:01:10 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/survey-abusive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EXAMS: A Multi-Subject High School Examinations Dataset for Cross-Lingual and Multilingual Question Answering</title>
+      <link>https://mhardalov.github.io/publication/exams/</link>
+      <pubDate>Thu, 05 Nov 2020 20:06:50 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/exams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enriched Pre-trained Transformers for Joint Slot Filling and Intent Detection</title>
+      <link>https://mhardalov.github.io/publication/transformernlu/</link>
+      <pubDate>Thu, 30 Apr 2020 15:00:01 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/transformernlu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beyond English-Only Reading Comprehension: Experiments in Zero-shot Multilingual Transfer for Bulgarian</title>
+      <link>https://mhardalov.github.io/publication/bgreason-qa/</link>
+      <pubDate>Fri, 30 Aug 2019 08:45:01 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/bgreason-qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Reading Comprehension for Answer Re-Ranking in Customer Support Chatbots</title>
+      <link>https://mhardalov.github.io/publication/re-ranking-conversation/</link>
+      <pubDate>Tue, 26 Feb 2019 08:45:01 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/re-ranking-conversation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive Style Breach Detection with Multifaceted Ensemble Learning</title>
+      <link>https://mhardalov.github.io/publication/recursive-style/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/recursive-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ensemble-Rich Multi-Aspect Approach Towards Robust Style Change Detection</title>
+      <link>https://mhardalov.github.io/publication/multi-aspect-style/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/multi-aspect-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Automated Customer Support</title>
+      <link>https://mhardalov.github.io/publication/automated-customer-support/</link>
+      <pubDate>Thu, 26 Jul 2018 08:45:01 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/automated-customer-support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweety at SemEval-2018 Task 2: Predicting Emojis using Hierarchical Attention Neural Networks and Support Vector Machine</title>
+      <link>https://mhardalov.github.io/publication/semeval-tweety/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/semeval-tweety/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In Search of Credible News</title>
+      <link>https://mhardalov.github.io/publication/credible-news/</link>
+      <pubDate>Fri, 26 Aug 2016 08:45:01 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/credible-news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering</title>
+      <link>https://mhardalov.github.io/publication/semeval-super/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/semeval-super/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SU@ PAN&#39;2015: Experiments in Author Profiling</title>
+      <link>https://mhardalov.github.io/publication/author-profiling/</link>
+      <pubDate>Sun, 19 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/author-profiling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

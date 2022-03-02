@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristiyan Mitov | Momchil Hardalov</title>
+    <link>https://mhardalov.github.io/authors/kristiyan-mitov/</link>
+      <atom:link href="https://mhardalov.github.io/authors/kristiyan-mitov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kristiyan Mitov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <title>Kristiyan Mitov</title>
+      <link>https://mhardalov.github.io/authors/kristiyan-mitov/</link>
+    </image>
+    
+    <item>
+      <title>Recursive Style Breach Detection with Multifaceted Ensemble Learning</title>
+      <link>https://mhardalov.github.io/publication/recursive-style/</link>
+      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/recursive-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ensemble-Rich Multi-Aspect Approach Towards Robust Style Change Detection</title>
+      <link>https://mhardalov.github.io/publication/multi-aspect-style/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.github.io/publication/multi-aspect-style/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
