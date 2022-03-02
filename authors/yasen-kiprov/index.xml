@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yasen Kiprov | Momchil Hardalov</title>
-    <link>https://mhardalov.github.io/authors/yasen-kiprov/</link>
-      <atom:link href="https://mhardalov.github.io/authors/yasen-kiprov/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mhardalov.com/authors/yasen-kiprov/</link>
+      <atom:link href="https://mhardalov.com/authors/yasen-kiprov/index.xml" rel="self" type="application/rss+xml" />
     <description>Yasen Kiprov</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Wed, 01 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mhardalov.com/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
       <title>Yasen Kiprov</title>
-      <link>https://mhardalov.github.io/authors/yasen-kiprov/</link>
+      <link>https://mhardalov.com/authors/yasen-kiprov/</link>
     </image>
     
     <item>
       <title>SUper Team at SemEval-2016 Task 3: Building a Feature-Rich System for Community Question Answering</title>
-      <link>https://mhardalov.github.io/publication/semeval-super/</link>
+      <link>https://mhardalov.com/publication/semeval-super/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/semeval-super/</guid>
+      <guid>https://mhardalov.com/publication/semeval-super/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SU@ PAN&#39;2015: Experiments in Author Profiling</title>
-      <link>https://mhardalov.github.io/publication/author-profiling/</link>
+      <link>https://mhardalov.com/publication/author-profiling/</link>
       <pubDate>Sun, 19 Jul 2015 00:00:00 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/author-profiling/</guid>
+      <guid>https://mhardalov.com/publication/author-profiling/</guid>
       <description></description>
     </item>
     

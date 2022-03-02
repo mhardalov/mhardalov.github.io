@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ameya Bhatawdekar | Momchil Hardalov</title>
-    <link>https://mhardalov.github.io/authors/ameya-bhatawdekar/</link>
-      <atom:link href="https://mhardalov.github.io/authors/ameya-bhatawdekar/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mhardalov.com/authors/ameya-bhatawdekar/</link>
+      <atom:link href="https://mhardalov.com/authors/ameya-bhatawdekar/index.xml" rel="self" type="application/rss+xml" />
     <description>Ameya Bhatawdekar</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Sat, 27 Feb 2021 08:01:10 +0000</lastBuildDate>
     <image>
-      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mhardalov.com/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
       <title>Ameya Bhatawdekar</title>
-      <link>https://mhardalov.github.io/authors/ameya-bhatawdekar/</link>
+      <link>https://mhardalov.com/authors/ameya-bhatawdekar/</link>
     </image>
     
     <item>
       <title>Detecting Abusive Language on Online Platforms: A Critical Analysis</title>
-      <link>https://mhardalov.github.io/publication/survey-abusive/</link>
+      <link>https://mhardalov.com/publication/survey-abusive/</link>
       <pubDate>Sat, 27 Feb 2021 08:01:10 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/survey-abusive/</guid>
+      <guid>https://mhardalov.com/publication/survey-abusive/</guid>
       <description></description>
     </item>
     

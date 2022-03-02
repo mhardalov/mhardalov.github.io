@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arnav Arora | Momchil Hardalov</title>
-    <link>https://mhardalov.github.io/authors/arnav-arora/</link>
-      <atom:link href="https://mhardalov.github.io/authors/arnav-arora/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mhardalov.com/authors/arnav-arora/</link>
+      <atom:link href="https://mhardalov.com/authors/arnav-arora/index.xml" rel="self" type="application/rss+xml" />
     <description>Arnav Arora</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Mon, 13 Sep 2021 15:20:06 +0000</lastBuildDate>
     <image>
-      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mhardalov.com/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
       <title>Arnav Arora</title>
-      <link>https://mhardalov.github.io/authors/arnav-arora/</link>
+      <link>https://mhardalov.com/authors/arnav-arora/</link>
     </image>
     
     <item>
       <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
-      <link>https://mhardalov.github.io/publication/fewshot-stance/</link>
+      <link>https://mhardalov.com/publication/fewshot-stance/</link>
       <pubDate>Mon, 13 Sep 2021 15:20:06 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/fewshot-stance/</guid>
+      <guid>https://mhardalov.com/publication/fewshot-stance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cross-Domain Label-Adaptive Stance Detection</title>
-      <link>https://mhardalov.github.io/publication/mole/</link>
+      <link>https://mhardalov.com/publication/mole/</link>
       <pubDate>Thu, 15 Apr 2021 20:06:50 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/mole/</guid>
+      <guid>https://mhardalov.com/publication/mole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
-      <link>https://mhardalov.github.io/publication/survey-stance/</link>
+      <link>https://mhardalov.com/publication/survey-stance/</link>
       <pubDate>Sat, 27 Feb 2021 23:00:00 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/survey-stance/</guid>
+      <guid>https://mhardalov.com/publication/survey-stance/</guid>
       <description></description>
     </item>
     

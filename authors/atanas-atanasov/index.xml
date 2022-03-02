@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atanas Atanasov | Momchil Hardalov</title>
-    <link>https://mhardalov.github.io/authors/atanas-atanasov/</link>
-      <atom:link href="https://mhardalov.github.io/authors/atanas-atanasov/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mhardalov.com/authors/atanas-atanasov/</link>
+      <atom:link href="https://mhardalov.com/authors/atanas-atanasov/index.xml" rel="self" type="application/rss+xml" />
     <description>Atanas Atanasov</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Wed, 29 Aug 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mhardalov.github.io/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mhardalov.com/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
       <title>Atanas Atanasov</title>
-      <link>https://mhardalov.github.io/authors/atanas-atanasov/</link>
+      <link>https://mhardalov.com/authors/atanas-atanasov/</link>
     </image>
     
     <item>
       <title>Recursive Style Breach Detection with Multifaceted Ensemble Learning</title>
-      <link>https://mhardalov.github.io/publication/recursive-style/</link>
+      <link>https://mhardalov.com/publication/recursive-style/</link>
       <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/recursive-style/</guid>
+      <guid>https://mhardalov.com/publication/recursive-style/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Ensemble-Rich Multi-Aspect Approach Towards Robust Style Change Detection</title>
-      <link>https://mhardalov.github.io/publication/multi-aspect-style/</link>
+      <link>https://mhardalov.com/publication/multi-aspect-style/</link>
       <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/multi-aspect-style/</guid>
+      <guid>https://mhardalov.com/publication/multi-aspect-style/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweety at SemEval-2018 Task 2: Predicting Emojis using Hierarchical Attention Neural Networks and Support Vector Machine</title>
-      <link>https://mhardalov.github.io/publication/semeval-tweety/</link>
+      <link>https://mhardalov.com/publication/semeval-tweety/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>https://mhardalov.github.io/publication/semeval-tweety/</guid>
+      <guid>https://mhardalov.com/publication/semeval-tweety/</guid>
       <description></description>
     </item>
     
