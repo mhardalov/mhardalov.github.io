@@ -5,12 +5,28 @@
     <link>https://mhardalov.com/authors/isabelle-augenstein/</link>
       <atom:link href="https://mhardalov.com/authors/isabelle-augenstein/index.xml" rel="self" type="application/rss+xml" />
     <description>Isabelle Augenstein</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Mon, 13 Sep 2021 15:20:06 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Wed, 01 Jun 2022 23:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mhardalov.com/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
       <title>Isabelle Augenstein</title>
       <link>https://mhardalov.com/authors/isabelle-augenstein/</link>
     </image>
+    
+    <item>
+      <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
+      <link>https://mhardalov.com/publication/survey-stance/</link>
+      <pubDate>Wed, 01 Jun 2022 23:00:00 +0000</pubDate>
+      <guid>https://mhardalov.com/publication/survey-stance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
+      <link>https://mhardalov.com/publication/deepknn/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://mhardalov.com/publication/deepknn/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Few-Shot Cross-Lingual Stance Detection with Sentiment-Based Pre-Training</title>
@@ -25,22 +41,6 @@
       <link>https://mhardalov.com/publication/mole/</link>
       <pubDate>Thu, 15 Apr 2021 20:06:50 +0000</pubDate>
       <guid>https://mhardalov.com/publication/mole/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Neighbourhood Framework for Resource-Lean Content Flagging</title>
-      <link>https://mhardalov.com/publication/deepknn/</link>
-      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://mhardalov.com/publication/deepknn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
-      <link>https://mhardalov.com/publication/survey-stance/</link>
-      <pubDate>Sat, 27 Feb 2021 23:00:00 +0000</pubDate>
-      <guid>https://mhardalov.com/publication/survey-stance/</guid>
       <description></description>
     </item>
     
