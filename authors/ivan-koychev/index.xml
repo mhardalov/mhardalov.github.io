@@ -5,12 +5,20 @@
     <link>https://mhardalov.com/authors/ivan-koychev/</link>
       <atom:link href="https://mhardalov.com/authors/ivan-koychev/index.xml" rel="self" type="application/rss+xml" />
     <description>Ivan Koychev</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Sat, 22 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Mon, 10 Oct 2022 15:20:06 +0000</lastBuildDate>
     <image>
       <url>https://mhardalov.com/media/icon_hu559d5128a472d843f8514d5e4b9db7d8_1346_512x512_fill_lanczos_center_3.png</url>
       <title>Ivan Koychev</title>
       <link>https://mhardalov.com/authors/ivan-koychev/</link>
     </image>
+    
+    <item>
+      <title>CrowdChecked: Detecting Previously Fact-Checked Claims in Social Media</title>
+      <link>https://mhardalov.com/publication/crowdchecked/</link>
+      <pubDate>Mon, 10 Oct 2022 15:20:06 +0000</pubDate>
+      <guid>https://mhardalov.com/publication/crowdchecked/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Leaf: Multiple-Choice Question Generation</title>

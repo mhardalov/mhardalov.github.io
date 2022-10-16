@@ -5,12 +5,20 @@
     <link>https://mhardalov.com/authors/momchil-hardalov/</link>
       <atom:link href="https://mhardalov.com/authors/momchil-hardalov/index.xml" rel="self" type="application/rss+xml" />
     <description>Momchil Hardalov</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Wed, 01 Jun 2022 23:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2022 Momchil Hardalov</copyright><lastBuildDate>Mon, 10 Oct 2022 15:20:06 +0000</lastBuildDate>
     <image>
       <url>https://mhardalov.com/authors/momchil-hardalov/avatar_hud011d904c25c4a6a6d068fd4096b9e52_2043813_270x270_fill_lanczos_center_3.png</url>
       <title>Momchil Hardalov</title>
       <link>https://mhardalov.com/authors/momchil-hardalov/</link>
     </image>
+    
+    <item>
+      <title>CrowdChecked: Detecting Previously Fact-Checked Claims in Social Media</title>
+      <link>https://mhardalov.com/publication/crowdchecked/</link>
+      <pubDate>Mon, 10 Oct 2022 15:20:06 +0000</pubDate>
+      <guid>https://mhardalov.com/publication/crowdchecked/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Survey on Stance Detection for Mis- and Disinformation Identification</title>
